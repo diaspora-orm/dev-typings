@@ -1,0 +1,28 @@
+{
+  "name": "@diaspora/dev-typings",
+  "version": "0.3.4",
+  "description": "🔨 FOR DEVELOPMENT PURPOSE ONLY! Typings shared across Diaspora ORM",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diaspora-orm/dev-typings.git"
+  },
+  "author": {
+    "name": "Gerkin",
+    "email": "nihilivin@gmail.com",
+    "url": "https://www.gerkindevelopment.net"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/diaspora-orm/dev-typings/issues"
+  },
+  "homepage": "https://github.com/diaspora-orm/dev-typings#readme",
+  "devDependencies": {
+    "@diaspora/dev-tslint": "^1.0.1",
+    "@types/lodash": "^4.14.121",
+    "tslint": "^5.12.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "sequential-event": "^0.4.5"
+  }
+}
