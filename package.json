@@ -22,7 +22,7 @@
     "tslint": "^5.12.1"
   },
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "sequential-event": "^0.4.5"
   }
 }
